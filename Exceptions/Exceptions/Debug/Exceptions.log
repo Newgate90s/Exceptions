@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\newga\source\repos\exceptions\exceptions\main.cpp(33): warning C4101: 'b': unreferenced local variable
+c:\users\newga\source\repos\exceptions\exceptions\main.cpp(41): warning C4101: 'e': unreferenced local variable
+  Exceptions.vcxproj -> C:\Users\NewGa\source\repos\Exceptions\Debug\Exceptions.exe
